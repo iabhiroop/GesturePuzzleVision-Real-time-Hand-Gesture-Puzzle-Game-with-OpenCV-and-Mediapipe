@@ -5,6 +5,13 @@ The game works by using the camera on the player's device to capture their hand 
 The game is easy to play and can be enjoyed by people of all ages. With its innovative use of Mediapipe technology, the Puzzle Game offers a unique and exciting gaming experience that is sure to entertain and challenge players for hours.
 
 
+
+![img1](https://user-images.githubusercontent.com/100859103/221416326-5a26bf72-67ec-4682-945f-8ca07e21e819.png)
+
+
+
+![img2](https://user-images.githubusercontent.com/100859103/221416331-93830503-499a-4699-a799-8cc9698114cd.png)
+
 ### Requirements
   - Python 3.x   
 
