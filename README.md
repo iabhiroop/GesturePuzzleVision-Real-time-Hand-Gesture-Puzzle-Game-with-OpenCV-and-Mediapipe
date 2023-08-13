@@ -1,6 +1,6 @@
-# UnPuzzle-OpenCV
+# GesturePuzzleVision: Real-time Hand Gesture Puzzle Game with OpenCV and Mediapipe
 
-UnPuzzle - Mini Game to arrange a randomly shuffled image using OpenCV and Mediapipe. The Puzzle Game using Mediapipe is a unique and interactive puzzle game that utilizes the advanced computer vision technology of Mediapipe. The game is designed to challenge players, requiring them to use their problem-solving and visual spatial skills to solve puzzles.
+Mini Game to arrange a randomly shuffled image using OpenCV and Mediapipe. The Puzzle Game using Mediapipe is a unique and interactive puzzle game that utilizes the advanced computer vision technology of Mediapipe. The game is designed to challenge players, requiring them to use their problem-solving and visual spatial skills to solve puzzles.
 The game works by using the camera on the player's device to capture their hand movements and gestures, which are then analyzed in real-time using the Mediapipe technology. The game is designed to test the player's ability to identify patterns and make strategic moves, providing a fun and engaging gaming experience.
 The game is easy to play and can be enjoyed by people of all ages. With its innovative use of Mediapipe technology, the Puzzle Game offers a unique and exciting gaming experience that is sure to entertain and challenge players for hours.
 
